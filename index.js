@@ -21,13 +21,11 @@ builder.defineStreamHandler((args) => {
                 name: "4K UHD",
                 title: "سيرفري الخاص - 4K Ultra HD (HDR)",
                 url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-                // استبدل الرابط أعلاه برابط فيديو 4K المباشر من سيرفرك
             },
             {
                 name: "1080p FHD",
                 title: "سيرفري الخاص - Full HD 1080p",
                 url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-                // استبدل الرابط أعلاه برابط فيديو 1080p المباشر من سيرفرك
             }
         ]
     });
